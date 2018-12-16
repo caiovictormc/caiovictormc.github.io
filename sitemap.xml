@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://caiovictormc.github.io/posts/terminal-tips/</loc>
+    <lastmod>2018-12-16T12:27:33-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://caiovictormc.github.io/about/</loc>
   </url>
   
   <url>
     <loc>https://caiovictormc.github.io/</loc>
+    <lastmod>2018-12-16T12:27:33-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -17,7 +23,25 @@
   </url>
   
   <url>
+    <loc>https://caiovictormc.github.io/categories/linux/</loc>
+    <lastmod>2018-12-16T12:27:33-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://caiovictormc.github.io/posts/</loc>
+    <lastmod>2018-12-16T12:27:33-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://caiovictormc.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://caiovictormc.github.io/categories/terminal/</loc>
+    <lastmod>2018-12-16T12:27:33-03:00</lastmod>
     <priority>0</priority>
   </url>
   

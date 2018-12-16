@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Caio Victor</title>
-    <link>https://caiovictormc.github.io/</link>
-    <description>Recent content on Caio Victor</description>
+    <title>Terminal on Caio Victor</title>
+    <link>https://caiovictormc.github.io/categories/terminal/</link>
+    <description>Recent content in Terminal on Caio Victor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 16 Dec 2018 12:27:33 -0300</lastBuildDate>
     
-	<atom:link href="https://caiovictormc.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caiovictormc.github.io/categories/terminal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>https://caiovictormc.github.io/posts/terminal-tips/</guid>
       <description>Text search in files $ grep -rnI {word} {directory} # Examples $ grep -rnI origin . $ grep -rnI foo apps/bar/ Open a text editor on a particular line vim {file} +{line} # Examples # Can be used in other text editors. $ vim arquivo.py +136 Execute a process in the background. $ {process} &amp;amp; # Example $ ./start.sh &amp;amp; Run background processes resistant to hangup signals If we only use &amp;amp;, when we disconnect from the terminal a hangup signal is sent, stopping all processes bound to it.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://caiovictormc.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://caiovictormc.github.io/about/</guid>
-      <description>Co-founder at CanionLabs, developer and open source enthusiast. I currently work with development of integration and analysis services for IoT.
-Main Technologies:
- Linux Docker Python Javascript Web Development  </description>
     </item>
     
   </channel>

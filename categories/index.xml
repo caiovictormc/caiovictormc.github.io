@@ -10,5 +10,23 @@
 	<atom:link href="https://caiovictormc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Linux</title>
+      <link>https://caiovictormc.github.io/categories/linux/</link>
+      <pubDate>Sun, 16 Dec 2018 12:27:33 -0300</pubDate>
+      
+      <guid>https://caiovictormc.github.io/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminal</title>
+      <link>https://caiovictormc.github.io/categories/terminal/</link>
+      <pubDate>Sun, 16 Dec 2018 12:27:33 -0300</pubDate>
+      
+      <guid>https://caiovictormc.github.io/categories/terminal/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
