@@ -37,6 +37,11 @@ url = "/posts/"
 weight = 10
 
 [[menu.main]]
+name = "Readings"
+url = "/readings/"
+weight = 15
+
+[[menu.main]]
 name = "About"
 url = "/about/"
 weight = 20
