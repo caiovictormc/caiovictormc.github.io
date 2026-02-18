@@ -1,10 +1,11 @@
 baseURL = "https://caiovictormc.github.io/"
 languageCode = "pt-br"
-title = "Caio Victor"
+title = "Caio Carvalho"
 theme = "risotto"
+copyright = "Caio Carvalho"
+
 [pagination]
 pagerSize = 5
-copyright = "Caio Victor"
 
 [params]
 
@@ -12,7 +13,7 @@ copyright = "Caio Victor"
 palette = "gruvbox-dark"
 
 [params.about]
-title = "Caio Victor"
+title = "Caio Carvalho"
 description = "Developer & open source enthusiast"
 logo = ">_"
 
