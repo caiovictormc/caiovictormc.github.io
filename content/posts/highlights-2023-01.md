@@ -7,6 +7,10 @@ tags:
   - software-development
 ---
 
+A curated collection of key takeaways from readings on complex systems failures, latency measurement pitfalls, software evolvability, and talks by Rich Hickey, Scott Hanselman, and Uncle Bob Martin.
+
+<!--more-->
+
 # Textos / Artigos
 
 ### Richard I. Cook: "How Complex Systems Fail," Cognitive Technologies Laboratory, April 2000.

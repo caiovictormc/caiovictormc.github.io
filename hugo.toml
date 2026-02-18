@@ -14,7 +14,7 @@ palette = "gruvbox-dark"
 [params.about]
 title = "Caio Victor"
 description = "Developer & open source enthusiast"
-logo = ""
+logo = ">_"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"

@@ -1,0 +1,22 @@
+{{ define "main" }}
+    {{ .Content }}
+
+    {{ $posts := where site.RegularPages "Section" "posts" }}
+    {{ if $posts }}
+    <h2>Recent posts</h2>
+    {{ range $posts.ByDate.Reverse }}
+    <article class="post">
+        <header class="post__header">
+            <h3><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
+            <p class="post__meta">
+                <small style="opacity: 0.6;">{{ .Date.Format "2 January 2006" }}</small>
+            </p>
+        </header>
+        <section class="post__summary">
+            {{ .Summary }}
+            <p><a href="{{ .Permalink }}">Read more &rarr;</a></p>
+        </section>
+    </article>
+    {{ end }}
+    {{ end }}
+{{ end }}
