@@ -1,0 +1,54 @@
+baseURL = "https://caiovictormc.github.io/"
+languageCode = "pt-br"
+title = "Caio Victor"
+theme = "risotto"
+[pagination]
+pagerSize = 5
+copyright = "Caio Victor"
+
+[params]
+
+[params.theme]
+palette = "gruvbox-dark"
+
+[params.about]
+title = "Caio Victor"
+description = "Developer & open source enthusiast"
+logo = ""
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/caiovictormc/"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/caiovictormc/"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/caiovictormc/"
+
+[[menu.main]]
+name = "Blog"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 20
+
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 3
+ordered = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
